@@ -1,0 +1,36 @@
+Toon Mouse Rogue has 23 animations,low poly and very good performance on mobiles.
+
+Triangles: 
+kobold_soldier 714 Tris
+
+Motions
+kobold_soldier_born01.FBX
+kobold_soldier_death01_re_005.FBX
+kobold_soldier_detect01_003.FBX
+kobold_soldier_idle01_011.FBX
+kobold_soldier_knockback01_re01_002.FBX
+kobold_soldier_knockback02_003.FBX
+kobold_soldier_knockback_death01_009.FBX
+kobold_soldier_loiter01_008.FBX
+kobold_soldier_provocation01_003.FBX
+kobold_soldier_run01_005.FBX
+kobold_soldier_run01_middle_001.FBX
+kobold_soldier_skill_attack01_006.FBX
+kobold_soldier_skill_attack03_007.FBX
+kobold_soldier_skill_attack04_005.FBX
+kobold_soldier_spawn_climbing01_re02_move_003.FBX
+kobold_soldier_spawn_climbing_end_re01_com_007.FBX
+kobold_soldier_spawn_jump_flying_003.FBX
+kobold_soldier_spawn_jump_landing01_002.FBX
+kobold_soldier_spawn_jump_landing_006.FBX
+kobold_soldier_spawn_uncover02_re01_002.FBX
+kobold_soldier_spawn_uncover_re01_003.FBX
+kobold_soldier_stun_005.FBX
+kobold_soldier_walk01_008.FBX
+
+Textures
+kobold_soldier_01.png 256x256
+kobold_soldier_02.png 128x128
+
+Important:
+This package only contains graphic material (models, textures, materials and animations).No scripts are included.
